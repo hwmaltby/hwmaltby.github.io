@@ -1,0 +1,21 @@
+h1 {
+    font-size: 64px;
+    color: blue;
+    text-shadow: 2px 2px 1px #FFFFF2;
+    text-align: center;
+}
+.subtitle {
+    font-size: 32px;
+    color: blue;
+    text-align: center;
+}
+#subsubtitle {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+body {
+    -moz-animation-duration: 4s;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-name: roll;
+}
