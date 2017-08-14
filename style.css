@@ -14,8 +14,3 @@ h1 {
     color: blue;
     text-align: center;
 }
-body {
-    -moz-animation-duration: 4s;
-    -moz-animation-iteration-count: 1;
-    -moz-animation-name: roll;
-}
